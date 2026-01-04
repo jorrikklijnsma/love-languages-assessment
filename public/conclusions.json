@@ -1,0 +1,940 @@
+{
+  "language_details": {
+    "words": {
+      "name": "Words of Affirmation",
+      "short_description": "Verbal expressions of love, appreciation, and encouragement",
+      "receiving": {
+        "high": {
+          "description": "Words have profound power over your emotional state. You don't just appreciate compliments - you deeply need verbal reassurance, specific acknowledgment, and spoken love to feel secure. For you, 'I love you' isn't just a nice thing to hear; it's emotional oxygen. Silence or lack of verbal affirmation registers as neglect or indifference, even when your partner is showing love in other ways.",
+          "strengths": [
+            "You're highly attuned to emotional communication and can articulate feelings well",
+            "You notice and appreciate when partners make effort to express themselves verbally",
+            "You create emotional safety through open, validating communication"
+          ],
+          "challenges": [
+            "Partners who aren't naturally verbally expressive may leave you feeling unloved despite their efforts",
+            "You may constantly seek verbal reassurance, which can feel exhausting to less verbal partners",
+            "Harsh words during conflict wound you deeply and take a long time to heal from",
+            "You might struggle to recognize non-verbal expressions of love as equally valid"
+          ],
+          "triggers": [
+            "Prolonged silence or lack of verbal check-ins",
+            "Criticism or harsh tone, even about small things",
+            "Partner saying they 'show' love instead of saying it",
+            "Feeling like your partner thinks 'you should just know' they love you"
+          ]
+        },
+        "medium": {
+          "description": "You appreciate hearing loving words and verbal affirmation, but don't depend on them exclusively to feel secure. Compliments and verbal expressions boost your mood, but you don't necessarily need constant verbal reassurance. However, prolonged silence or criticism still affects you significantly.",
+          "strengths": [
+            "You can appreciate both verbal and non-verbal expressions of love",
+            "You're less likely to spiral into insecurity if your partner isn't constantly verbal",
+            "You can translate actions into felt love even without accompanying words"
+          ],
+          "challenges": [
+            "You might not communicate your need for words clearly, assuming partners will naturally do it",
+            "During stress, your need for verbal reassurance may spike unexpectedly",
+            "You may settle for less verbal affirmation than would actually make you happy"
+          ],
+          "triggers": [
+            "Harsh criticism delivered carelessly",
+            "Being dismissed verbally when trying to share something important",
+            "Sarcasm or joking that crosses into hurtful territory"
+          ]
+        },
+        "low": {
+          "description": "Words matter less to you than actions or presence. You might find excessive compliments uncomfortable or unnecessary. You're the person who thinks 'show me, don't tell me.' When someone says 'I love you' without backing it up with action, it can feel hollow or even manipulative to you.",
+          "strengths": [
+            "You don't need constant verbal reassurance to feel secure",
+            "You recognize love through concrete actions and presence",
+            "You're less vulnerable to emotional manipulation through words",
+            "You likely communicate love more through doing than saying"
+          ],
+          "challenges": [
+            "Partners who need verbal affirmation may feel unloved by your silence",
+            "You might assume your actions speak for themselves when partners need to hear words",
+            "You may come across as emotionally distant even when you're deeply committed",
+            "Harsh words might still hurt you, creating confusion about whether words matter to you"
+          ],
+          "triggers": [
+            "Being pressured to say 'I love you' when it doesn't feel natural",
+            "Partners who use words to manipulate or avoid taking action",
+            "Feeling like words are a substitute for real effort"
+          ]
+        }
+      },
+      "giving": {
+        "high": {
+          "description": "Your instinct is to verbalize your love and appreciation. You naturally compliment people, send encouraging texts, and articulate what you value about them. You believe in the power of words to heal, motivate, and connect. For you, saying 'I love you' regularly isn't redundant - it's essential maintenance of emotional connection.",
+          "strengths": [
+            "You create emotional safety through consistent verbal affirmation",
+            "You're skilled at articulating appreciation and making people feel seen",
+            "You can repair conflicts well by verbalizing understanding and apology",
+            "Partners who need words will feel deeply met by you"
+          ],
+          "challenges": [
+            "Partners with low Words receiving may not value your primary expression, leaving you feeling unappreciated",
+            "You might feel hurt when your heartfelt words don't seem to land",
+            "You may over-rely on words when actions are what's actually needed",
+            "You might struggle withpartners who want less verbal communication"
+          ],
+          "growth_areas": [
+            "Learn to pair words with action for partners who need tangible follow-through",
+            "Notice when silence or presence would be more meaningful than words",
+            "Practice showing love through other languages even when words feel most natural"
+          ]
+        },
+        "medium": {
+          "description": "You express love verbally when it feels natural but don't rely on it as your primary method. You'll compliment someone or express appreciation when moved to do so, but it's not your automatic default. You balance words with other forms of expression.",
+          "strengths": [
+            "You have flexibility in how you express love",
+            "You can adapt to partners with different receiving needs",
+            "You likely combine words with actions effectively"
+          ],
+          "challenges": [
+            "Partners who need high verbal affirmation might feel you're not expressive enough",
+            "You might not realize how much words could enhance your other expressions of love",
+            "You may default to your stronger giving languages and under-use words when they'd be helpful"
+          ],
+          "growth_areas": [
+            "Experiment with more frequent verbal affirmation, especially with partners who need it",
+            "Notice when adding words to your actions would amplify the impact",
+            "Build the habit of verbal check-ins even when it doesn't come naturally"
+          ]
+        },
+        "low": {
+          "description": "You're not naturally verbally expressive. 'I love you' might feel awkward or unnecessary to say often because you feel your actions speak louder. This can create significant disconnection with partners who need verbal reassurance, as they interpret your silence as lack of care even when you're showing love in other ways.",
+          "strengths": [
+            "You demonstrate love through concrete actions",
+            "You don't use empty words - when you do speak, you mean it",
+            "You may create stability through consistent action rather than fluctuating verbal expression"
+          ],
+          "challenges": [
+            "Partners who need words will feel chronically unloved, no matter how hard you're working",
+            "You may think your love is obvious when your partner feels completely unseen",
+            "You might resist saying loving things because it feels 'fake' or uncomfortable",
+            "Silence during conflict can be devastating for verbal-needs partners"
+          ],
+          "growth_areas": [
+            "Recognize that what feels obvious to you isn't always obvious to others",
+            "Practice saying 'I love you' regularly, even if it feels awkward at first",
+            "Learn to verbalize appreciation for small things your partner does",
+            "Understand that words + actions is more powerful than either alone"
+          ]
+        }
+      }
+    },
+    "quality_time": {
+      "name": "Quality Time",
+      "short_description": "Undivided attention and meaningful shared experiences",
+      "receiving": {
+        "high": {
+          "description": "Presence is everything to you. Not just physical proximity, but genuine, undivided attention. You measure love by whether someone prioritizes time with you and is fully present when together. For you, how someone spends their time reveals their true priorities. Being physically present but mentally elsewhere (scrolling phone, distracted) feels like abandonment.",
+          "strengths": [
+            "You create deep, meaningful connection through dedicated attention",
+            "You're skilled at being fully present in relationships",
+            "You build rich shared histories and memories that sustain relationships",
+            "You notice and appreciate when partners make time for you"
+          ],
+          "challenges": [
+            "In our phone-addicted world, you're constantly feeling starved for real connection",
+            "You feel deeply hurt when plans are cancelled or partners prioritize other commitments",
+            "Partners showing love through gifts or service might think they're expressing care while you're feeling lonely",
+            "You may struggle with partners who need more independence or alone time",
+            "Work demands, kids, or life logistics can leave you chronically feeling deprioritized"
+          ],
+          "triggers": [
+            "Phone use during time together",
+            "Repeatedly cancelled or postponed plans",
+            "Partners who are physically present but mentally elsewhere",
+            "Feeling like you're competing with work, friends, or hobbies for attention",
+            "Being told 'we just spent time together' when it was distracted time"
+          ]
+        },
+        "medium": {
+          "description": "You value quality time and feel more connected when you have it, but don't need constant togetherness to feel secure. You appreciate dedicated time together but also value independence. You can tolerate some distraction or cancelled plans without feeling fundamentally threatened.",
+          "strengths": [
+            "You balance connection with independence well",
+            "You can appreciate both quality time and other expressions of love",
+            "You're less likely to feel insecure when life gets busy",
+            "You can enjoy parallel play - being near each other while doing separate things"
+          ],
+          "challenges": [
+            "You might not communicate when you do need dedicated time, assuming it's obvious",
+            "During stressful periods, your need for quality time may spike without you realizing",
+            "You may settle for less presence than would actually fulfill you"
+          ],
+          "triggers": [
+            "Extended periods of distracted or low-quality time together",
+            "Important events where your partner is present but clearly wanting to be elsewhere",
+            "Promises of time together that repeatedly don't materialize"
+          ]
+        },
+        "low": {
+          "description": "You don't need much face time to feel connected. You might prefer parallel play - being near someone while doing separate things - over forced interaction. You value independence and might feel suffocated by too much togetherness. This doesn't mean you don't love deeply; you just express and receive it differently.",
+          "strengths": [
+            "You maintain independence within relationships",
+            "You don't feel threatened by partners having separate interests or time apart",
+            "You can feel connected even with physical distance",
+            "You likely show love through other means that work better for you"
+          ],
+          "challenges": [
+            "Partners who need quality time will feel chronically neglected by you",
+            "You might not understand why partners feel unloved when you're still committed",
+            "You may avoid spending time together, thinking love should be effortless",
+            "Your need for space can be interpreted as lack of interest or care"
+          ],
+          "triggers": [
+            "Feeling pressured to spend more time together than feels natural",
+            "Being accused of not caring when you're simply more independent",
+            "Partners who equate time spent with love and try to monopolize your time"
+          ]
+        }
+      },
+      "giving": {
+        "high": {
+          "description": "You naturally clear your schedule for people you care about. You plan dates, suggest activities, and prioritize shared experiences. You show love by making time, being present, and creating memories. For you, presence is the most precious gift you can give.",
+          "strengths": [
+            "You create strong bonds through consistent, dedicated presence",
+            "You prioritize people over tasks in ways that build deep connection",
+            "Partners who need quality time feel profoundly met by you",
+            "You build shared experiences that become relationship anchors"
+          ],
+          "challenges": [
+            "You might struggle with work-life balance because you want to give time to everyone you love",
+            "Partners with low quality time needs may feel smothered",
+            "You might feel hurt when partners don't reciprocate with the same time investment",
+            "You may neglect other ways of showing love because time feels most important"
+          ],
+          "growth_areas": [
+            "Learn that quality matters more than quantity - 15 focused minutes can be more connecting than 2 distracted hours",
+            "Respect when partners need space or independence",
+            "Combine quality time with other love languages for partners who need different expressions"
+          ]
+        },
+        "medium": {
+          "description": "You make time for loved ones when possible but balance it with other responsibilities. You'll plan special occasions and be present for important moments, but you don't feel compelled to spend every free moment together. You show love through quality time alongside other expressions.",
+          "strengths": [
+            "You balance connection with independence",
+            "You can adapt to different partners' needs for time together",
+            "You likely use multiple love languages effectively"
+          ],
+          "challenges": [
+            "Partners who need high quality time might feel you're not making them enough of a priority",
+            "You might default to other love languages when quality time is what's actually needed",
+            "You may not realize how much regular dedicated time matters to some people"
+          ],
+          "growth_areas": [
+            "Schedule regular quality time even when it doesn't come naturally",
+            "Notice when partners need presence more than other expressions",
+            "Practice putting away distractions during time together"
+          ]
+        },
+        "low": {
+          "description": "You don't automatically think to spend time as a love expression. You might show love through actions, gifts, or words instead. This can deeply hurt quality-time-oriented partners who interpret your busy schedule or preference for independence as lack of interest.",
+          "strengths": [
+            "You maintain healthy independence",
+            "You likely show love in concrete, tangible ways",
+            "You don't create codependent dynamics"
+          ],
+          "challenges": [
+            "Partners who need quality time will feel fundamentally unloved by you",
+            "You might think being together while doing separate things counts when it doesn't for them",
+            "You may not understand why partners feel neglected when you're still committed",
+            "Your other expressions of love won't compensate for lack of presence for quality-time people"
+          ],
+          "growth_areas": [
+            "Understand that for some people, time IS love - your presence is the present",
+            "Schedule regular dedicated time even when it doesn't feel natural",
+            "Practice being fully present - no phone, no distractions - even for short periods",
+            "Recognize that giving time doesn't have to be elaborate - simple presence matters"
+          ]
+        }
+      }
+    },
+    "service": {
+      "name": "Acts of Service",
+      "short_description": "Helpful actions that ease burdens and lighten loads",
+      "receiving": {
+        "high": {
+          "description": "You feel most loved when someone lightens your load and anticipates your needs. When your partner handles a task you've been dreading, takes something off your plate, or notices what needs doing without being asked - that speaks love to you louder than any words. You likely struggle when carrying all the weight alone and may feel resentful when others don't contribute equally.",
+          "strengths": [
+            "You notice and appreciate practical support",
+            "You value reliability and follow-through in relationships",
+            "You create partnerships based on mutual support and shared responsibility",
+            "You likely reciprocate by being helpful to others"
+          ],
+          "challenges": [
+            "You may find yourself over-functioning and then resenting partners for not reciprocating",
+            "Partners who are verbally or physically affectionate might think they're meeting your needs while you're drowning in responsibilities",
+            "You might struggle to receive help, having learned that your value comes from what you do",
+            "You may keep mental scorecards of who does what, creating resentment",
+            "You can feel profoundly unloved when carrying an unequal load, even if your partner is expressing love in other ways"
+          ],
+          "triggers": [
+            "Being overwhelmed while your partner relaxes",
+            "Asking repeatedly for help that doesn't materialize",
+            "Partners who help only when asked, never initiating",
+            "Being told 'I'll do it later' repeatedly",
+            "Carrying the mental load - being the one who has to remember and manage everything"
+          ]
+        },
+        "medium": {
+          "description": "You appreciate when people help out and it registers as thoughtfulness, but you don't measure love primarily through actions. You can handle your own responsibilities and don't necessarily expect others to step in, though you notice and value it when they do.",
+          "strengths": [
+            "You maintain independence while appreciating support",
+            "You can receive love through multiple channels",
+            "You're less likely to become resentful over unequal household labor",
+            "You probably have a good balance of self-sufficiency and partnership"
+          ],
+          "challenges": [
+            "You might not ask for help when you actually need it",
+            "During high-stress periods, your need for practical support may spike",
+            "You may not realize how much certain acts of service do mean to you until they're absent"
+          ],
+          "triggers": [
+            "Promises of help that don't materialize",
+            "Being left completely alone with major responsibilities during crises",
+            "Partners who never initiate practical help"
+          ]
+        },
+        "low": {
+          "description": "You don't particularly need or want others doing things for you. You might even feel uncomfortable when people help, preferring to handle things yourself. Someone taking over tasks might feel like they're implying you can't do it, rather than showing love. You value independence over interdependence.",
+          "strengths": [
+            "You're highly self-sufficient and independent",
+            "You don't create dependencies in relationships",
+            "You likely show and receive love through other meaningful channels",
+            "You don't keep score of who does what"
+          ],
+          "challenges": [
+            "Partners whose primary language is service may feel rejected when you don't accept their help",
+            "You might resist practical support even when you actually need it",
+            "You may not realize that refusing help can feel like rejecting love for service-oriented people",
+            "You might come across as unwilling to be vulnerable or dependent"
+          ],
+          "triggers": [
+            "Being offered help in ways that feel condescending",
+            "Partners who do things for you without asking if you want help",
+            "Feeling like someone is trying to 'manage' or 'fix' you"
+          ]
+        }
+      },
+      "giving": {
+        "high": {
+          "description": "You show love by doing. You fix things, run errands, cook meals, handle logistics - anything to lighten someone's load. You might stay up late finishing something so they don't have to. You believe love is spelled W-O-R-K, and you demonstrate care through sacrifice and effort. For you, actions genuinely speak louder than words.",
+          "strengths": [
+            "You create tangible, concrete expressions of love",
+            "Partners who need service feel profoundly cared for by you",
+            "You're reliable and follow through on commitments",
+            "You notice practical needs and meet them without being asked"
+          ],
+          "challenges": [
+            "You might become a martyr, doing everything and resenting lack of reciprocation",
+            "You may expect your service to be noticed and appreciated at the level you give it",
+            "Partners whose receiving language isn't service may not recognize your efforts as love",
+            "You might burnout from over-functioning while feeling unappreciated",
+            "You may neglect your own needs because you equate love with labor"
+          ],
+          "growth_areas": [
+            "Learn to verbalize your efforts - sometimes people don't notice what you're doing",
+            "Ask if partners want help rather than assuming they do",
+            "Don't keep score - service given with resentment isn't love, it's a transaction",
+            "Practice receiving service, not just giving it",
+            "Recognize that partnership means shared responsibility, not one person serving the other"
+          ]
+        },
+        "medium": {
+          "description": "You help when you see a need or when asked, but it's not your primary love language. You balance doing things for others with other forms of expression. You'll step up for big things but don't obsess over every small task.",
+          "strengths": [
+            "You have balance between helping and respecting independence",
+            "You likely express love through multiple channels",
+            "You avoid over-functioning or creating dependencies"
+          ],
+          "challenges": [
+            "Partners who need high service may not feel you're contributing enough",
+            "You might not realize how much certain practical supports would mean",
+            "You may default to other love languages when service is what's needed"
+          ],
+          "growth_areas": [
+            "Notice when practical help would be more meaningful than words or time",
+            "Build habits of anticipating needs rather than waiting to be asked",
+            "Combine service with your stronger love languages for more impact"
+          ]
+        },
+        "low": {
+          "description": "You don't naturally think to show love through service. This can create serious disconnection with partners who need this. To them, your lack of practical help might feel like lack of care, even when you love them deeply. You likely express love through presence, words, touch, or gifts instead.",
+          "strengths": [
+            "You show love in emotional rather than transactional ways",
+            "You likely create connection through other meaningful expressions",
+            "You don't create dynamics where love is measured by tasks completed"
+          ],
+          "challenges": [
+            "Partners who need service will feel chronically unsupported and unloved",
+            "You might not notice when your partner is overwhelmed and needs practical help",
+            "'Not thinking of it' doesn't excuse ignoring a partner's exhaustion",
+            "Your other expressions won't compensate for lack of practical support for service-oriented people",
+            "You may be perceived as lazy or uncaring even when deeply committed"
+          ],
+          "growth_areas": [
+            "Recognize that actions matter - sometimes love needs to be tangible",
+            "Build simple habits: ask 'what can I take off your plate today?'",
+            "Notice when your partner is stressed and offer specific help",
+            "Understand that doing dishes or laundry can be an act of love",
+            "Follow through on what you say you'll do - reliability is service"
+          ]
+        }
+      }
+    },
+    "touch": {
+      "name": "Physical Touch",
+      "short_description": "Physical connection, affection, and intimacy",
+      "receiving": {
+        "high": {
+          "description": "Physical touch is your primary pathway to feeling loved and secure. Hugs, held hands, back rubs, or casual touch while passing in the kitchen communicate safety and connection to your nervous system. Without regular physical affection, you feel disconnected - even unloved. Importantly: this isn't just about sex. You need non-sexual touch throughout the day to feel close. Lack of touch can make you feel rejected at a body level, not just emotionally.",
+          "strengths": [
+            "You're deeply attuned to physical connection and intimacy",
+            "You can soothe yourself and others through touch",
+            "You create powerful bonds through physical presence",
+            "You're likely comfortable with vulnerability in physical intimacy"
+          ],
+          "challenges": [
+            "Partners with touch aversion or different physical needs can leave you feeling chronically rejected",
+            "You might feel fundamentally disconnected without regular physical intimacy, even when the relationship is otherwise good",
+            "Non-sexual touch without sexual availability may feel frustrating or incomplete to you",
+            "Going extended periods without sex can make you feel like roommates, not lovers",
+            "You may struggle to differentiate between needing physical connection and needing sexual intimacy specifically"
+          ],
+          "triggers": [
+            "Partners who pull away or avoid physical affection",
+            "Long periods without sex making you feel emotionally disconnected",
+            "Being told 'not everything has to be sexual' when you initiate touch",
+            "Partners who are affectionate only as foreplay",
+            "Feeling like you're always the one initiating physical contact"
+          ]
+        },
+        "medium": {
+          "description": "You enjoy physical affection and it contributes to feeling loved, but you don't require constant touch to feel secure. You appreciate hugs, hand-holding, and physical closeness but can also feel connected without it. You're comfortable with moderate levels of affection.",
+          "strengths": [
+            "You have flexibility in how you connect physically",
+            "You can appreciate both physical and non-physical expressions of love",
+            "You're likely able to respect varying comfort levels with touch",
+            "You balance physical intimacy with other forms of connection"
+          ],
+          "challenges": [
+            "You might not communicate clearly about when you do need physical touch",
+            "During stress, your need for touch might spike unexpectedly",
+            "You may settle for less physical affection than would actually fulfill you"
+          ],
+          "triggers": [
+            "Extended periods with no physical affection at all",
+            "Partners who flinch or pull away when you initiate touch",
+            "Physical affection that only happens as a precursor to sex"
+          ]
+        },
+        "low": {
+          "description": "You don't particularly seek out or need physical touch to feel loved. You might find excessive physical affection uncomfortable, overwhelming, or even suffocating. You may need significant personal space and prefer other forms of intimacy. This doesn't mean you're cold or unloving - you just connect differently.",
+          "strengths": [
+            "You maintain healthy physical boundaries",
+            "You don't feel threatened by physical distance",
+            "You can feel deeply connected without physical proximity",
+            "You likely show love through presence, actions, or words effectively"
+          ],
+          "challenges": [
+            "Partners who need touch will feel chronically rejected and unloved by you",
+            "You might not understand why lack of touch matters so much to others",
+            "Your avoidance of physical affection can be interpreted as lack of attraction or care",
+            "You may struggle with partners who want frequent physical intimacy",
+            "Your need for space can make touch-oriented partners feel unwanted"
+          ],
+          "triggers": [
+            "Feeling pressured to be more physically affectionate than feels natural",
+            "Partners who interpret your need for space as rejection",
+            "Being accused of not being attracted to your partner when you simply have different touch needs"
+          ]
+        }
+      },
+      "giving": {
+        "high": {
+          "description": "You naturally express love through touch. You give hugs, hold hands, put your arm around someone, play with their hair, give back rubs. Touch is your instinctive way of saying 'I'm here' and 'I care.' Physical affection is how you naturally communicate love, comfort, and connection.",
+          "strengths": [
+            "You create immediate, visceral feelings of connection",
+            "Partners who need touch feel deeply met by you",
+            "You can comfort and soothe effectively through physical presence",
+            "You likely have a strong capacity for physical intimacy"
+          ],
+          "challenges": [
+            "You might struggle with partners who don't want as much physical contact",
+            "You may feel rejected when partners pull away from your touch",
+            "You might initiate touch when other forms of connection are more needed",
+            "You could come across as too physical or boundary-crossing with people who need more space"
+          ],
+          "growth_areas": [
+            "Learn to ask before touching, especially with new partners or in public",
+            "Respect when partners need space without taking it personally",
+            "Combine touch with other love languages for partners who need multiple expressions",
+            "Recognize that touch-as-comfort and touch-as-sexuality feel different"
+          ]
+        },
+        "medium": {
+          "description": "You use touch as one of several ways to express affection. You'll hug, hold hands, and be physically affectionate, but it's not your only or primary method. You adapt your touch levels based on the person and situation.",
+          "strengths": [
+            "You have flexibility in physical expression",
+            "You can read and adapt to others' comfort levels",
+            "You likely combine touch with other love languages well"
+          ],
+          "challenges": [
+            "Partners who need high physical touch may not feel you're affectionate enough",
+            "You might not initiate touch as often as touch-oriented partners need",
+            "You may default to other languages when touch is what's actually needed"
+          ],
+          "growth_areas": [
+            "For touch-oriented partners, increase casual affection throughout the day",
+            "Notice when touch would be more comforting than words",
+            "Build small habits of physical connection - hand on shoulder, brief hug, etc."
+          ]
+        },
+        "low": {
+          "description": "Physical affection doesn't come naturally to you. You might forget to hug, rarely initiate hand-holding, and generally express love in other ways. This can deeply hurt partners whose primary receiving language is touch - they may interpret your lack of physical affection as rejection or lack of attraction.",
+          "strengths": [
+            "You respect physical boundaries naturally",
+            "You show love through meaningful non-physical expressions",
+            "You don't create pressure around physical intimacy"
+          ],
+          "challenges": [
+            "Partners who need touch will feel chronically unloved and rejected",
+            "You might not realize how much your lack of physical initiation hurts touch-oriented people",
+            "Saying 'I love you' without physical affection feels empty to touch-oriented partners",
+            "You may avoid physical intimacy even when your partner needs it",
+            "Your other expressions won't compensate for lack of touch for physical people"
+          ],
+          "growth_areas": [
+            "For touch-oriented partners, this is worth working on even if it feels awkward",
+            "Start with small gestures: brief hand touches, quick hugs, sitting close",
+            "Build touch into daily routines: hug hello/goodbye, hold hands while walking",
+            "Understand that to some people, touch IS emotional communication",
+            "Practice initiating physical affection regularly, not just when you feel like it"
+          ]
+        }
+      }
+    },
+    "gifts": {
+      "name": "Receiving Gifts",
+      "short_description": "Thoughtful tangible symbols of love and consideration",
+      "receiving": {
+        "high": {
+          "description": "For you, gifts are visual symbols of love - physical proof that someone was thinking about you. It's not about materialism or monetary value; it's about the thoughtfulness. When someone sees something and thinks 'they would love this,' that thought made tangible means everything. You probably keep every note, card, and meaningful gift. The physical object represents being held in someone's mind.",
+          "strengths": [
+            "You treasure and appreciate thoughtful gestures",
+            "You create tangible repositories of relationship history",
+            "You notice and value when people pay attention to your preferences",
+            "You likely give meaningful gifts to others as well"
+          ],
+          "challenges": [
+            "Partners might misunderstand your need as materialism when it's about thoughtfulness",
+            "You feel hurt when partners forget important occasions or never bring you anything",
+            "You may over-invest in gift-giving for others while feeling disappointed when it's not reciprocated",
+            "Mass-produced or thoughtless gifts can feel worse than no gift at all",
+            "You might struggle with partners who think 'we don't need to do gifts'"
+          ],
+          "triggers": [
+            "Forgotten birthdays, anniversaries, or special occasions",
+            "Being told 'I don't believe in gifts' or 'gifts are materialistic'",
+            "Generic, thoughtless gifts that show no personal consideration",
+            "Partners who never spontaneously bring you anything",
+            "Being compared unfavorably to others' gift-giving"
+          ]
+        },
+        "medium": {
+          "description": "You appreciate thoughtful gifts and they make you feel good, but you don't depend on them to feel loved. A meaningful gift is nice but not necessary for you to feel secure in a relationship. You value the gesture but don't feel neglected if gifts are infrequent.",
+          "strengths": [
+            "You can appreciate gifts without being dependent on them",
+            "You don't feel devastated by forgotten occasions",
+            "You likely have multiple ways of feeling loved",
+            "You can distinguish between the gesture and the relationship's health"
+          ],
+          "challenges": [
+            "You might not communicate that you do enjoy receiving gifts",
+            "During special occasions, you may feel more disappointed than you expected when there's no gift",
+            "You may downplay your appreciation, making partners think gifts don't matter to you"
+          ],
+          "triggers": [
+            "Complete absence of any gifts or gestures during major life events",
+            "Partners who mock or dismiss the significance of gift-giving",
+            "Consistently thoughtless or inappropriate gifts"
+          ]
+        },
+        "low": {
+          "description": "Gifts don't particularly move you emotionally. You might feel awkward receiving them, uncomfortable with the attention, or stressed about reciprocating. You likely prefer experiences, practical help, or presence over objects. This doesn't make you ungrateful - you just value other expressions of love more highly.",
+          "strengths": [
+            "You don't measure love by material things",
+            "You appreciate experiences and presence over possessions",
+            "You likely show love through more meaningful (to you) expressions",
+            "You don't create expectations around material giving"
+          ],
+          "challenges": [
+            "Partners who express love through gifts may feel their gestures are unappreciated",
+            "You might dismiss or downplay gifts in ways that hurt gift-oriented partners",
+            "You may forget important occasions because they don't carry significance for you",
+            "You could come across as ungrateful even when you're genuinely appreciative",
+            "You might struggle to reciprocate when gift-giving matters to your partner"
+          ],
+          "triggers": [
+            "Feeling obligated to reciprocate gifts",
+            "Being judged for not caring about material gestures",
+            "Partners who equate gift-spending with love"
+          ]
+        }
+      },
+      "giving": {
+        "high": {
+          "description": "You love giving gifts. You're always seeing things that remind you of people and picking them up. You put thought into finding the perfect meaningful gift. You might overspend because you derive joy from giving. You remember important dates and never show up empty-handed. For you, gifts are how you show people you're thinking of them.",
+          "strengths": [
+            "You create tangible expressions of your care and attention",
+            "Partners who need gifts feel profoundly seen and valued by you",
+            "You're thoughtful and attentive to people's preferences",
+            "You create memorable moments through meaningful giving"
+          ],
+          "challenges": [
+            "You might feel hurt when partners don't appreciate gifts at the level you intend",
+            "You could overspend or create financial stress through gift-giving",
+            "Partners with low gift-receiving may not value your primary expression",
+            "You might feel your thoughtfulness isn't reciprocated or noticed",
+            "You may use gifts to solve problems when other responses are needed"
+          ],
+          "growth_areas": [
+            "Check whether your partner actually wants/needs gifts before defaulting to them",
+            "Combine gifts with other love languages for fuller expression",
+            "Set boundaries on spending so gift-giving doesn't create financial stress",
+            "Recognize that some people prefer experiences or service over objects",
+            "Don't use gifts as a substitute for presence, words, or addressing issues"
+          ]
+        },
+        "medium": {
+          "description": "You give gifts on appropriate occasions and put reasonable thought into them. You enjoy finding good gifts but don't obsess over it. You balance gift-giving with other expressions of love and don't feel compelled to always have something tangible to give.",
+          "strengths": [
+            "You give gifts thoughtfully without over-investing",
+            "You likely combine gifts with other love languages well",
+            "You create balance between material and non-material expressions"
+          ],
+          "challenges": [
+            "Partners who need frequent tangible reminders may not feel you're thinking of them enough",
+            "You might not realize how much the occasional spontaneous gift would mean",
+            "You may default to other love languages when a gift would be most meaningful"
+          ],
+          "growth_areas": [
+            "For gift-oriented partners, increase frequency of small thoughtful gestures",
+            "Notice when a tangible reminder would enhance other expressions of love",
+            "Remember that gifts don't have to be expensive to be meaningful"
+          ]
+        },
+        "low": {
+          "description": "Gift-giving doesn't come naturally to you. You might forget occasions, struggle with what to get, or feel that gifts are unnecessary. This can significantly hurt partners who value gifts - to them, your lack of gifts signals lack of thought or care, even when you're expressing love in other ways.",
+          "strengths": [
+            "You likely express love through more substantial means (time, service, words)",
+            "You don't equate love with material gestures",
+            "You create connection through non-material expressions"
+          ],
+          "challenges": [
+            "Partners who need gifts will feel unseen and unthought-of",
+            "You might forget important occasions that matter deeply to others",
+            "Showing up empty-handed when others expect gifts can be very hurtful",
+            "You may not realize how much a small thoughtful gesture would mean",
+            "Your other expressions won't compensate for lack of gifts for gift-oriented people"
+          ],
+          "growth_areas": [
+            "Understand it's not about money - a wildflower picked on a walk can be perfect",
+            "Set calendar reminders for important dates",
+            "Keep a running list of things your partner mentions wanting or liking",
+            "Practice: when you think 'they'd like this,' get it for them",
+            "Recognize that gifts are about showing you were thinking of them"
+          ]
+        }
+      }
+    }
+  },
+  "activities_solo": {
+    "words": [
+      {
+        "title": "Gratitude Journaling with Specificity",
+        "description": "Each day, write down three specific things you appreciate about your partner, phrased as if speaking to them. Practice articulating exactly what you value. This builds your capacity to verbalize appreciation.",
+        "difficulty": "Easy",
+        "time": "5 minutes daily"
+      },
+      {
+        "title": "Voice Note Love Letters",
+        "description": "Record a 2-minute voice note expressing something you appreciate about your partner. Don't send it - just practice articulating feelings verbally without editing. Builds fluency in verbal affirmation.",
+        "difficulty": "Medium",
+        "time": "10 minutes weekly"
+      },
+      {
+        "title": "Compliment Challenge",
+        "description": "For one week, give one genuine compliment to someone (partner, friend, colleague) every day. Notice how it feels to verbalize appreciation. Track responses and your own comfort level.",
+        "difficulty": "Easy",
+        "time": "Ongoing"
+      },
+      {
+        "title": "Reframe Criticism Exercise",
+        "description": "When you notice criticism toward your partner (even internal), practice reframing it as a request with appreciation. 'You never listen' becomes 'I really appreciate when you give me your full attention. Could we talk?'",
+        "difficulty": "Hard",
+        "time": "As needed"
+      }
+    ],
+    "quality_time": [
+      {
+        "title": "Phone-Free Practice",
+        "description": "Practice being fully present by putting your phone in another room for increasing intervals. Start with 15 minutes, work up to hours. Notice what you actually pay attention to without digital distraction.",
+        "difficulty": "Medium",
+        "time": "Daily practice"
+      },
+      {
+        "title": "Active Listening Exercise",
+        "description": "In one conversation per day, practice only listening - no planning your response, no fixing, no changing subject. Just receiving what the other person says. Notice how hard this is.",
+        "difficulty": "Hard",
+        "time": "Daily"
+      },
+      {
+        "title": "Presence Inventory",
+        "description": "For one week, track how present you actually are during time with your partner. Rate each interaction: fully present, somewhat distracted, or mentally elsewhere. Identify patterns.",
+        "difficulty": "Easy",
+        "time": "Weekly reflection"
+      },
+      {
+        "title": "Memory Creation Ritual",
+        "description": "Once a week, create a deliberate memory with your partner - even something small. Take a photo, write one sentence about it. Build the habit of treating time together as memory-worthy.",
+        "difficulty": "Easy",
+        "time": "Weekly"
+      }
+    ],
+    "service": [
+      {
+        "title": "Notice & Act Challenge",
+        "description": "For one week, each day notice one thing that needs doing and do it without being asked. Track what you notice and how it feels to act on it. Builds anticipation skills.",
+        "difficulty": "Medium",
+        "time": "Daily"
+      },
+      {
+        "title": "Mental Load Mapping",
+        "description": "Write down everything you mentally track for your household. Include tasks, but also the thinking/planning/remembering. Share this with your partner. Discuss what's invisible labor.",
+        "difficulty": "Medium",
+        "time": "1 hour once"
+      },
+      {
+        "title": "Receive Service Practice",
+        "description": "If someone offers help, say yes (even if you don't need it). Practice receiving service without explaining, minimizing, or immediately reciprocating. Notice your discomfort.",
+        "difficulty": "Hard",
+        "time": "As opportunities arise"
+      },
+      {
+        "title": "Energy Audit",
+        "description": "Track your acts of service for one week. Note which ones feel resentful vs. genuinely giving. Identify where you're over-functioning. Practice saying no to resentment-fueled service.",
+        "difficulty": "Hard",
+        "time": "Weekly tracking"
+      }
+    ],
+    "touch": [
+      {
+        "title": "Body Language Awareness",
+        "description": "For three days, notice how you physically orient toward or away from your partner. Do you turn toward them when they speak? Lean in? Create distance? Build awareness of your physical communication.",
+        "difficulty": "Easy",
+        "time": "Daily observation"
+      },
+      {
+        "title": "Non-Sexual Touch Inventory",
+        "description": "List 10 types of non-sexual touch you could give/receive (hand squeeze, shoulder touch, hair stroke, etc.). Try one new type each day. Notice which feel most connecting.",
+        "difficulty": "Easy",
+        "time": "10 days"
+      },
+      {
+        "title": "Touch Initiation Practice",
+        "description": "If you typically wait for touch, practice initiating once per day. If you always initiate, practice waiting. Notice what happens when you change the pattern.",
+        "difficulty": "Medium",
+        "time": "Daily"
+      },
+      {
+        "title": "Sexual vs. Emotional Connection Tracking",
+        "description": "For two weeks, track: When you want sex, are you wanting physical pleasure or emotional closeness? When you feel disconnected, does sex actually fix it? Build awareness of what you're actually seeking.",
+        "difficulty": "Hard",
+        "time": "2 weeks"
+      }
+    ],
+    "gifts": [
+      {
+        "title": "'Made Me Think of You' Practice",
+        "description": "For one week, each time something reminds you of your partner, take a photo or note it. Don't buy anything - just notice. At week's end, share the list. Builds thoughtfulness muscle.",
+        "difficulty": "Easy",
+        "time": "Weekly"
+      },
+      {
+        "title": "Memory Box Creation",
+        "description": "Gather meaningful gifts/notes/items from your relationship. Create a physical box of tangible memories. Notice which items carry the most emotional weight and why.",
+        "difficulty": "Medium",
+        "time": "2 hours once"
+      },
+      {
+        "title": "Gratitude Without Gifts",
+        "description": "If you typically give gifts to show appreciation, practice expressing gratitude without buying anything for one week. Forces you to use other love languages.",
+        "difficulty": "Medium",
+        "time": "1 week"
+      },
+      {
+        "title": "Meaning > Money Exercise",
+        "description": "Identify the most meaningful gift you've ever received. What made it meaningful? Write down 5 gifts under $10 that would carry similar meaning. Prove to yourself it's not about cost.",
+        "difficulty": "Easy",
+        "time": "30 minutes"
+      }
+    ]
+  },
+  "activities_couples": {
+    "strengths": [
+      {
+        "match": "both_high_words",
+        "title": "Love Letter Exchange",
+        "description": "Each write a letter expressing what you love about the other. Read them aloud to each other. Since you both value words highly, this will be deeply connecting. Make it a monthly ritual.",
+        "difficulty": "Easy",
+        "time": "1 hour"
+      },
+      {
+        "match": "both_high_quality_time",
+        "title": "Phone-Free Date Night",
+        "description": "Plan a date with zero phones, no interruptions. You both value presence - give each other that completely. Even staying home works if you're fully present. Make it weekly.",
+        "difficulty": "Easy",
+        "time": "2-3 hours weekly"
+      },
+      {
+        "match": "both_high_service",
+        "title": "Tag Team Tasks",
+        "description": "Pick a dreaded household project and tackle it together. You both value service - being useful together is bonding for you. Put on music, make it fun, feel productive together.",
+        "difficulty": "Medium",
+        "time": "As needed"
+      },
+      {
+        "match": "both_high_touch",
+        "title": "Touch Without Goal",
+        "description": "Set a timer for 20 minutes. Just touch - massage, cuddling, hand-holding - with agreement that it won't progress to sex. Since you both need touch, practice giving it without agenda.",
+        "difficulty": "Medium",
+        "time": "20 minutes regularly"
+      },
+      {
+        "match": "both_high_gifts",
+        "title": "Thoughtful Gift Hunt",
+        "description": "Set a $10 limit. You each have 1 hour to find the most thoughtful gift possible for each other. You both value gifts - make it a game. Focus on thought, not cost.",
+        "difficulty": "Easy",
+        "time": "2 hours monthly"
+      }
+    ],
+    "challenges": [
+      {
+        "mismatch": "high_words_low_words",
+        "title": "Translation Practice",
+        "description": "Person with low Words: Practice saying 'I love you' and one specific appreciation daily for 1 week, even if awkward. Person with high Words: Practice recognizing actions as love without needing verbal confirmation.",
+        "difficulty": "Hard",
+        "time": "Daily for 1 week"
+      },
+      {
+        "mismatch": "high_quality_time_low_quality_time",
+        "title": "Scheduled Presence",
+        "description": "Person with low Quality Time: Schedule 30 minutes of phone-free, distraction-free time 3x/week. Person with high Quality Time: Practice appreciating the scheduled time without needing more. Meet in the middle.",
+        "difficulty": "Medium",
+        "time": "30 min, 3x weekly"
+      },
+      {
+        "mismatch": "high_service_low_service",
+        "title": "Visible Acts Challenge",
+        "description": "Person with low Service: Do one visible helpful thing daily without being asked. Person with high Service: Verbally acknowledge when partner helps instead of expecting them to notice. Build the loop.",
+        "difficulty": "Medium",
+        "time": "Daily"
+      },
+      {
+        "mismatch": "high_touch_low_touch",
+        "title": "Touch Negotiation",
+        "description": "Person with low Touch: Offer 3 types of touch you're comfortable with. Person with high Touch: Request touch from that list 2x/day. Person with low Touch: Practice initiating once daily. Builds safety for both.",
+        "difficulty": "Hard",
+        "time": "Daily"
+      },
+      {
+        "mismatch": "high_gifts_low_gifts",
+        "title": "Reminder System Setup",
+        "description": "Person with low Gifts: Set calendar reminders for important dates and keep a list of things partner mentions wanting. Person with high Gifts: Explicitly say when something would make a meaningful gift. Remove guesswork.",
+        "difficulty": "Easy",
+        "time": "Initial setup + ongoing"
+      }
+    ],
+    "general": [
+      {
+        "title": "Love Language Check-In",
+        "description": "Monthly, each answer: (1) When did you feel most loved this month? (2) When did you feel least loved? (3) What's one thing I could do more of? Keep it brief, specific, actionable.",
+        "difficulty": "Medium",
+        "time": "20 minutes monthly"
+      },
+      {
+        "title": "Experiment Week",
+        "description": "Pick one love language you don't naturally use. For one week, express love that way daily. Partner gives feedback on what lands. Builds your range of expression.",
+        "difficulty": "Medium",
+        "time": "1 week"
+      },
+      {
+        "title": "Appreciation Exchange",
+        "description": "Set a timer for 5 minutes each. Take turns expressing appreciation for one thing the other did this week. Use whatever love language feels natural to you. Witness how you each express differently.",
+        "difficulty": "Easy",
+        "time": "10 minutes weekly"
+      },
+      {
+        "title": "Conflict Repair Ritual",
+        "description": "After a fight, each person expresses repair in the OTHER person's love language (not your own). 'What would help you feel like we're okay?' Forces you to speak their language.",
+        "difficulty": "Hard",
+        "time": "As needed"
+      }
+    ]
+  },
+  "partner_compatibility": {
+    "giving_receiving_dynamics": {
+      "perfect_match": {
+        "description": "You naturally give what your partner needs to receive, and vice versa. This is rare and beautiful - you're instinctively meeting each other's core needs.",
+        "advice": "Don't take this for granted. Keep checking in that you're both still feeling met. As life gets stressful, even natural compatibility needs maintenance.",
+        "risk": "You might stop being intentional because it feels easy. Complacency can erode even great natural fit."
+      },
+      "one_way_match": {
+        "description": "One of you is naturally giving what the other needs, but the reverse isn't true. This creates an imbalance where one person feels easily loved while the other has to work to feel met.",
+        "advice": "The person whose needs are naturally met: recognize your partner is working harder than you realize. The person working harder: communicate specific requests rather than hoping your partner will guess.",
+        "risk": "The person working harder may burn out or feel resentful if their effort isn't acknowledged and reciprocated through learning."
+      },
+      "no_natural_match": {
+        "description": "Neither of you naturally gives what the other receives. This requires conscious effort from both sides - you're both learning a foreign language. This is common and totally workable with awareness.",
+        "advice": "Be patient with each other's learning curve. Effort matters more than perfect execution. Appreciate attempts even when they don't land perfectly. Consider this an opportunity to grow.",
+        "risk": "Without intentional learning, you'll both feel like you're trying hard while the other doesn't care. The disconnect isn't lack of love - it's lack of translation."
+      }
+    },
+    "specific_mismatches": {
+      "words_vs_service": {
+        "challenge": "Words person feels unloved despite partner working hard. Service person feels unappreciated despite partner's verbal praise. Words feel empty without action; action feels invisible without acknowledgment.",
+        "bridge": "Service person: Verbalize while doing ('I'm handling this because I care about you'). Words person: Verbally acknowledge specific actions ('Thank you for doing X, it really helps me').",
+        "watch_for": "Words person dismissing service as 'just what you should do.' Service person saying 'I show you, isn't that enough?'"
+      },
+      "touch_vs_quality_time": {
+        "challenge": "Touch person wants physical intimacy to feel close. Quality Time person wants conversation and presence first. Touch feels empty without emotional connection; talking feels empty without physical closeness.",
+        "bridge": "Quality Time person: Give 15 min of presence before or during physical intimacy. Touch person: Understand talking IS intimacy for them, not just foreplay to physical connection.",
+        "watch_for": "Touch person initiating sex when actually wanting emotional closeness. Quality Time person avoiding touch because they don't feel emotionally connected yet."
+      },
+      "gifts_vs_time": {
+        "challenge": "Gifts person wants tangible reminders of being thought about. Time person wants experiences and presence. Gifts feel materialistic vs. meaningful; time feels fleeting vs. lasting.",
+        "bridge": "Time person: Small tangible gestures (notes, photos, saved items from experiences). Gifts person: Frame gifts as memory anchors, not materialism. Give 'experience gifts' (tickets, plans).",
+        "watch_for": "Gifts person feeling forgotten when there's nothing tangible. Time person feeling like gifts are a substitute for real connection."
+      },
+      "touch_vs_service": {
+        "challenge": "Touch person feels loved through physical affection. Service person shows love through practical help. Physical affection feels nice but not essential vs. service feeling unromantic despite being loving.",
+        "bridge": "Service person: Add brief physical gestures when helping (hug after doing dishes). Touch person: Request physical connection as part of support ('Can you hug me while I figure this out?').",
+        "watch_for": "Touch person feeling like roommates despite partner doing everything. Service person feeling rejected because help isn't received as love."
+      },
+      "words_vs_touch": {
+        "challenge": "Words person needs verbal reassurance. Touch person shows love physically. Words without touch feel disconnected; touch without words feels mechanical.",
+        "bridge": "Words person: Verbally appreciate physical affection ('I love when you hold me'). Touch person: Pair touch with brief words ('I love you' while hugging).",
+        "watch_for": "Words person saying 'you never tell me you love me' despite constant physical affection. Touch person feeling words are 'just words' without physical follow-through."
+      },
+      "quality_time_vs_service": {
+        "challenge": "Quality Time person wants presence. Service person shows love by doing tasks. Doing tasks together vs. separately becomes a point of conflict.",
+        "bridge": "Do tasks together when possible - service person still being useful, quality time person getting presence. Service person: Prioritize tasks that create time together vs. that keep you apart.",
+        "watch_for": "Quality Time person feeling abandoned while Service person is 'working for us.' Service person feeling unappreciated for sacrificing presence to be useful."
+      }
+    }
+  }
+}

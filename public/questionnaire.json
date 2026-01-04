@@ -1,0 +1,364 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "After a long stressful day, what would make you feel most loved?",
+      "context": "receiving",
+      "options": [
+        { "text": "Your partner sits with you, phones away, and asks about your day", "language": "quality_time", "weight": 3 },
+        { "text": "Your partner says 'I'm so proud of how you handled that. You're amazing'", "language": "words", "weight": 3 },
+        { "text": "Your partner pulls you into a long, tight hug without saying anything", "language": "touch", "weight": 3 },
+        { "text": "Your partner has already made dinner and cleaned up so you can relax", "language": "service", "weight": 3 },
+        { "text": "Your partner surprises you with your favorite treat they picked up", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "When you want to show someone you care about them, your instinct is to:",
+      "context": "giving",
+      "options": [
+        { "text": "Tell them specifically what you appreciate about them", "language": "words", "weight": 3 },
+        { "text": "Clear your schedule to spend uninterrupted time together", "language": "quality_time", "weight": 3 },
+        { "text": "Do something helpful for them without being asked", "language": "service", "weight": 3 },
+        { "text": "Give them a hug, hold their hand, or touch their shoulder", "language": "touch", "weight": 3 },
+        { "text": "Buy or make them something meaningful", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Your partner is overwhelmed with work. What would you naturally do?",
+      "context": "giving",
+      "options": [
+        { "text": "Take over their household tasks so they can focus", "language": "service", "weight": 3 },
+        { "text": "Send encouraging texts throughout the day", "language": "words", "weight": 3 },
+        { "text": "Order their favorite meal to be delivered", "language": "gifts", "weight": 3 },
+        { "text": "Sit with them while they work, just being present", "language": "quality_time", "weight": 3 },
+        { "text": "Give them a shoulder massage while they work", "language": "touch", "weight": 3 }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "What bothers you most when you're feeling disconnected from your partner?",
+      "context": "receiving",
+      "options": [
+        { "text": "When they're physically present but mentally elsewhere (on their phone, distracted)", "language": "quality_time", "weight": 3 },
+        { "text": "When they rarely say 'I love you' or compliment you", "language": "words", "weight": 3 },
+        { "text": "When they don't help out even though you're clearly overwhelmed", "language": "service", "weight": 3 },
+        { "text": "When they pull away or avoid physical affection", "language": "touch", "weight": 3 },
+        { "text": "When they forget special occasions or never bring you anything", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "A friend is going through a breakup. How do you support them?",
+      "context": "giving",
+      "options": [
+        { "text": "Show up with comfort food or a care package", "language": "gifts", "weight": 3 },
+        { "text": "Call them and say 'You're going to get through this. You're stronger than you know'", "language": "words", "weight": 3 },
+        { "text": "Clear your weekend to be with them, doing whatever they need", "language": "quality_time", "weight": 3 },
+        { "text": "Help them with practical stuff - moving belongings, changing locks, etc.", "language": "service", "weight": 3 },
+        { "text": "Just sit with them and let them cry on your shoulder", "language": "touch", "weight": 3 }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "What makes you feel most secure in a relationship?",
+      "context": "receiving",
+      "options": [
+        { "text": "Regular verbal reassurance that they love and value you", "language": "words", "weight": 3 },
+        { "text": "Consistent quality time together, even if it's just mundane activities", "language": "quality_time", "weight": 3 },
+        { "text": "When they do little things to make your life easier without asking", "language": "service", "weight": 3 },
+        { "text": "Frequent physical affection throughout the day", "language": "touch", "weight": 3 },
+        { "text": "Thoughtful gestures that show they're thinking about you", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Your partner accomplished something significant. How do you celebrate with them?",
+      "context": "giving",
+      "options": [
+        { "text": "Write them a heartfelt note about why you're proud of them", "language": "words", "weight": 3 },
+        { "text": "Plan a special date or experience to celebrate together", "language": "quality_time", "weight": 3 },
+        { "text": "Buy them a gift that commemorates their achievement", "language": "gifts", "weight": 3 },
+        { "text": "Take care of everything at home so they can fully enjoy the moment", "language": "service", "weight": 3 },
+        { "text": "Give them a huge hug and hold them close", "language": "touch", "weight": 3 }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Which situation would hurt your feelings most?",
+      "context": "receiving",
+      "options": [
+        { "text": "They criticize you or say harsh things during an argument", "language": "words", "weight": 3 },
+        { "text": "They repeatedly cancel plans you were looking forward to", "language": "quality_time", "weight": 3 },
+        { "text": "They never help around the house even when you're exhausted", "language": "service", "weight": 3 },
+        { "text": "They flinch or pull away when you try to be affectionate", "language": "touch", "weight": 3 },
+        { "text": "They show up empty-handed to your birthday", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "You notice your partner seems down. What's your first instinct?",
+      "context": "giving",
+      "options": [
+        { "text": "Ask them to talk about it and really listen", "language": "quality_time", "weight": 3 },
+        { "text": "Tell them 'I'm here for you. You're not alone in this'", "language": "words", "weight": 3 },
+        { "text": "Handle their responsibilities so they have space to process", "language": "service", "weight": 3 },
+        { "text": "Hold them or rub their back", "language": "touch", "weight": 3 },
+        { "text": "Bring them something to cheer them up", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "What do you cherish most about a good relationship?",
+      "context": "receiving",
+      "options": [
+        { "text": "Hearing 'I love you' and knowing they mean it", "language": "words", "weight": 3 },
+        { "text": "Having adventures and making memories together", "language": "quality_time", "weight": 3 },
+        { "text": "Having a partner who lightens your load in life", "language": "service", "weight": 3 },
+        { "text": "The comfort of physical closeness", "language": "touch", "weight": 3 },
+        { "text": "The thoughtfulness behind meaningful surprises", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "When apologizing to someone you hurt, you're most likely to:",
+      "context": "giving",
+      "options": [
+        { "text": "Give a sincere verbal apology explaining what you'll do differently", "language": "words", "weight": 3 },
+        { "text": "Ask if you can spend time talking through what happened", "language": "quality_time", "weight": 3 },
+        { "text": "Do something concrete to make amends or fix the problem", "language": "service", "weight": 3 },
+        { "text": "Offer a hug or comforting touch (if appropriate)", "language": "touch", "weight": 3 },
+        { "text": "Bring them something as a peace offering", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "You're going through a difficult time. What would help you feel most supported?",
+      "context": "receiving",
+      "options": [
+        { "text": "Someone saying 'You're doing your best. I believe in you'", "language": "words", "weight": 3 },
+        { "text": "Having someone sit with you without needing to fix anything", "language": "quality_time", "weight": 3 },
+        { "text": "Someone handling tasks you're too overwhelmed to do", "language": "service", "weight": 3 },
+        { "text": "A long hug or someone holding your hand", "language": "touch", "weight": 3 },
+        { "text": "A thoughtful gift that shows they understand what you're going through", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "It's your partner's birthday. How do you make them feel special?",
+      "context": "giving",
+      "options": [
+        { "text": "Find or create the perfect meaningful gift", "language": "gifts", "weight": 3 },
+        { "text": "Write them a letter expressing what they mean to you", "language": "words", "weight": 3 },
+        { "text": "Plan an entire day doing their favorite activities together", "language": "quality_time", "weight": 3 },
+        { "text": "Handle all the chores and responsibilities so they can relax", "language": "service", "weight": 3 },
+        { "text": "Give them extra physical affection throughout the day", "language": "touch", "weight": 3 }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "In a relationship, you feel most disconnected when:",
+      "context": "receiving",
+      "options": [
+        { "text": "There's no affectionate touch - no hand-holding, kissing, or cuddling", "language": "touch", "weight": 3 },
+        { "text": "You're only communicating about logistics, never deeper conversations", "language": "quality_time", "weight": 3 },
+        { "text": "They never acknowledge your efforts or say appreciative things", "language": "words", "weight": 3 },
+        { "text": "You're doing everything while they don't contribute", "language": "service", "weight": 3 },
+        { "text": "They never think to bring you anything or surprise you", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "A colleague helped you with a big project. How do you thank them?",
+      "context": "giving",
+      "options": [
+        { "text": "Send them a genuine message about how much you appreciate them", "language": "words", "weight": 3 },
+        { "text": "Invite them to lunch or coffee to properly thank them", "language": "quality_time", "weight": 3 },
+        { "text": "Offer to help them with their next project", "language": "service", "weight": 3 },
+        { "text": "Give them a warm handshake or appropriate hug", "language": "touch", "weight": 3 },
+        { "text": "Get them a thank-you gift", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "What makes you feel most valued by your partner?",
+      "context": "receiving",
+      "options": [
+        { "text": "When they tell you specific things they admire about you", "language": "words", "weight": 3 },
+        { "text": "When they prioritize time with you over other things", "language": "quality_time", "weight": 3 },
+        { "text": "When they notice what needs doing and just do it", "language": "service", "weight": 3 },
+        { "text": "When they initiate physical affection spontaneously", "language": "touch", "weight": 3 },
+        { "text": "When they see something and think 'they would love this'", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Your partner mentions they're craving a specific food. What do you do?",
+      "context": "giving",
+      "options": [
+        { "text": "Surprise them by bringing it home", "language": "gifts", "weight": 3 },
+        { "text": "Suggest you go get it together and make an outing of it", "language": "quality_time", "weight": 3 },
+        { "text": "Offer to cook it for them", "language": "service", "weight": 3 },
+        { "text": "Text them 'I love how you know exactly what you want'", "language": "words", "weight": 3 },
+        { "text": "Playfully feed them a bite when you have it together", "language": "touch", "weight": 3 }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Which scenario would make you feel most loved on a random Tuesday?",
+      "context": "receiving",
+      "options": [
+        { "text": "Getting a text: 'Just thinking about you. You make my life better'", "language": "words", "weight": 3 },
+        { "text": "Your partner suggesting a spontaneous walk together", "language": "quality_time", "weight": 3 },
+        { "text": "Coming home to find they already took care of the thing you were dreading", "language": "service", "weight": 3 },
+        { "text": "Your partner pulling you close while you're cooking dinner", "language": "touch", "weight": 3 },
+        { "text": "Finding a small surprise they picked up 'just because'", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Someone in your life seems stressed. Your natural response is to:",
+      "context": "giving",
+      "options": [
+        { "text": "Remind them of their strengths and that they can handle this", "language": "words", "weight": 3 },
+        { "text": "Offer to help them work through it together", "language": "quality_time", "weight": 3 },
+        { "text": "Ask what's on their plate and take something off it", "language": "service", "weight": 3 },
+        { "text": "Give them a comforting touch on the shoulder or arm", "language": "touch", "weight": 3 },
+        { "text": "Bring them their favorite coffee or treat", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "What matters most to you in daily life with a partner?",
+      "context": "receiving",
+      "options": [
+        { "text": "Hearing 'good morning,' 'I love you,' and 'goodnight' regularly", "language": "words", "weight": 3 },
+        { "text": "Having rituals together - morning coffee, evening walks, weekend routines", "language": "quality_time", "weight": 3 },
+        { "text": "Sharing the mental load and household responsibilities", "language": "service", "weight": 3 },
+        { "text": "Casual touch throughout the day - passing by, sitting together, etc.", "language": "touch", "weight": 3 },
+        { "text": "Occasional small thoughtful surprises", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "You want to cheer someone up. What feels most natural?",
+      "context": "giving",
+      "options": [
+        { "text": "Call them and have a real conversation", "language": "quality_time", "weight": 3 },
+        { "text": "Send them an encouraging message about why they're awesome", "language": "words", "weight": 3 },
+        { "text": "Show up and help them with whatever they're dealing with", "language": "service", "weight": 3 },
+        { "text": "Give them a big hug when you see them", "language": "touch", "weight": 3 },
+        { "text": "Drop off something that will make them smile", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "You feel most loved when your partner:",
+      "context": "receiving",
+      "options": [
+        { "text": "Expresses gratitude for who you are, not just what you do", "language": "words", "weight": 3 },
+        { "text": "Turns off distractions to be fully present with you", "language": "quality_time", "weight": 3 },
+        { "text": "Does the hard or annoying tasks without being asked", "language": "service", "weight": 3 },
+        { "text": "Reaches for your hand in public", "language": "touch", "weight": 3 },
+        { "text": "Remembers something you mentioned and surprises you with it", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Your friend is moving to a new apartment. How do you help?",
+      "context": "giving",
+      "options": [
+        { "text": "Show up with your muscles and help them move", "language": "service", "weight": 3 },
+        { "text": "Tell them 'This is exciting! You're going to love this new chapter'", "language": "words", "weight": 3 },
+        { "text": "Spend the whole day with them making it fun", "language": "quality_time", "weight": 3 },
+        { "text": "Bring them a housewarming gift", "language": "gifts", "weight": 3 },
+        { "text": "Give them a celebratory hug when everything's moved in", "language": "touch", "weight": 3 }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "What would make you feel most appreciated after doing something thoughtful?",
+      "context": "receiving",
+      "options": [
+        { "text": "Hearing them say 'Thank you so much. That really meant a lot to me'", "language": "words", "weight": 3 },
+        { "text": "Having them want to spend more time with you because of it", "language": "quality_time", "weight": 3 },
+        { "text": "Them doing something thoughtful for you in return", "language": "service", "weight": 3 },
+        { "text": "Getting an appreciative hug or kiss", "language": "touch", "weight": 3 },
+        { "text": "Receiving a thank-you gift or gesture", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "When you miss someone, what do you do?",
+      "context": "giving",
+      "options": [
+        { "text": "Text or call to tell them you're thinking about them", "language": "words", "weight": 3 },
+        { "text": "Make plans to see them soon", "language": "quality_time", "weight": 3 },
+        { "text": "Do something helpful for them remotely", "language": "service", "weight": 3 },
+        { "text": "Plan to greet them with a big hug next time you see them", "language": "touch", "weight": 3 },
+        { "text": "Send them something or save something for them", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "In an argument, what helps you feel like things will be okay?",
+      "context": "receiving",
+      "options": [
+        { "text": "Hearing 'I'm sorry' and understanding what went wrong", "language": "words", "weight": 3 },
+        { "text": "Sitting down together to really talk it through", "language": "quality_time", "weight": 3 },
+        { "text": "Seeing them take action to fix the issue", "language": "service", "weight": 3 },
+        { "text": "Physical reassurance - a hug or holding hands", "language": "touch", "weight": 3 },
+        { "text": "A peace offering or gesture of reconciliation", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "You want to show long-term commitment to your partner. You'd most likely:",
+      "context": "giving",
+      "options": [
+        { "text": "Give them something symbolic of your commitment", "language": "gifts", "weight": 3 },
+        { "text": "Tell them about your future together and your commitment to them", "language": "words", "weight": 3 },
+        { "text": "Make concrete plans for your shared future", "language": "quality_time", "weight": 3 },
+        { "text": "Take on more responsibilities to build your life together", "language": "service", "weight": 3 },
+        { "text": "Increase physical intimacy and affection", "language": "touch", "weight": 3 }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Which absence bothers you most in a relationship?",
+      "context": "receiving",
+      "options": [
+        { "text": "Never hearing words of love, appreciation, or encouragement", "language": "words", "weight": 3 },
+        { "text": "Never having meaningful conversations or shared experiences", "language": "quality_time", "weight": 3 },
+        { "text": "Carrying all the weight while they coast", "language": "service", "weight": 3 },
+        { "text": "Living like roommates with no physical affection", "language": "touch", "weight": 3 },
+        { "text": "Never receiving anything thoughtful or personal", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "When you see someone you love after being apart, your first instinct is to:",
+      "context": "giving",
+      "options": [
+        { "text": "Tell them how much you missed them", "language": "words", "weight": 3 },
+        { "text": "Ask about their time away and really listen", "language": "quality_time", "weight": 3 },
+        { "text": "Take their bags or help them get settled", "language": "service", "weight": 3 },
+        { "text": "Hug or kiss them immediately", "language": "touch", "weight": 3 },
+        { "text": "Have something waiting for them as a welcome", "language": "gifts", "weight": 3 }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "What makes you feel most deeply connected to your partner?",
+      "context": "receiving",
+      "options": [
+        { "text": "When they verbalize their love and what you mean to them", "language": "words", "weight": 3 },
+        { "text": "When you share experiences that create memories together", "language": "quality_time", "weight": 3 },
+        { "text": "When they anticipate your needs and meet them", "language": "service", "weight": 3 },
+        { "text": "When you're physically close - cuddling, intimate moments, sustained touch", "language": "touch", "weight": 3 },
+        { "text": "When they give you something that shows they truly know you", "language": "gifts", "weight": 3 }
+      ]
+    }
+  ]
+}
